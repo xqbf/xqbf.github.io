@@ -3,7 +3,7 @@ title: "Efficiently Counting Triangles in Large Temporal Graphs"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1'
-date: 2025-02
+date: 2025-02-11
 venue: 'Conference 2'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3709688'
