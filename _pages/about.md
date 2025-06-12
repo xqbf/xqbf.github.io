@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior CUHK-Shenzhen student majoring in Computer Science. I am very lucky to be supervised by Prof. Yixiang Fang and Prof. Chenhao Ma.
+I am a MSCS student at Emory university, supervised by [Prof. Li Xiong](https://www.cs.emory.edu/~lxiong/).
+ 
+Previously, I finished my undergraduate study at CUHK-Shenzhen. I am very lucky to be supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io/) and [Prof. Chenhao Ma](https://chenhao-ma.github.io/) in there.
 
-I am interested in graph processing, database algorithm and data mining.
+I am interested in LLM, data privacy and data mining.
 
-Publications
-======
-Efficiently Counting Triangles in Large Temporal Graphs
-Yuyang Xia, Yixiang Fang, Wensheng Luo
-In ACM International Conference on Management of Data (SIGMOD), 2025.
-
-On Querying Connected Components in Large Temporal Graphs
-Haoxuan Xie, Yixiang Fang, Yuyang Xia, Wensheng Luo, Chenhao Ma
-In ACM International Conference on Management of Data (SIGMOD), 2023.
