@@ -8,7 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dafault"
+# site_theme               : "dafault"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # 或者你选择的 Minimal Mistakes 版本
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-include-cache # 这个对 Minimal Mistakes 很重要
 title                    : "Yuyang Xia"
 title_separator          : "-"
 name                     : &name "Yuyang Xia"
