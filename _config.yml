@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme             : "mmistakes/minimal-mistakes"
+site_theme               : "dafault"
 title                    : "Yuyang Xia"
 title_separator          : "-"
 name                     : &name "Yuyang Xia"
 description              : &description "personal description"
-url                      : "https://yuyangxia.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuyangxia.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Yuyang Xia"
   pronouns         : "he/him" 
-#   bio              : "Short biography for the left-hand sidebar"
-#   location         : "Earth"
-#   employer         : "Red Brick University"
-#   uri              : # URL
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
   email            : "yuyangxia@emory.edu" 
 
   # Academic websites
