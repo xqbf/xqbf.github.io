@@ -11,5 +11,5 @@ I am a MSCS student at Emory university, supervised by [Prof. Li Xiong](https://
  
 Previously, I finished my undergraduate study at CUHK-Shenzhen. I am very lucky to be supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io/) and [Prof. Chenhao Ma](https://chenhao-ma.github.io/) there.
 
-I am interested in LLM, data privacy and data mining.
+I am interested in LLM, data privacy and graph computing.
 
