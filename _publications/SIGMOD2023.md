@@ -2,7 +2,6 @@
 title: "On Querying Connected Components in Large Temporal Graphs"
 collection: publications
 category: conferences
-permalink: https://dl.acm.org/doi/10.1145/3589315
 date: 2023-06-23
 venue: 'SIGMOD'
 paperurl: 'https://dl.acm.org/doi/10.1145/3589315'
