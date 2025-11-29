@@ -1,7 +1,7 @@
 ---
 title: "Tight and Practical Privacy Auditing for Differentially Private In-Context Learning"
 collection: publications
-category: Preprint
+category: preprints
 permalink: https://arxiv.org/abs/2511.13502
 date: 2025-11-17
 paperurl: 'https://arxiv.org/abs/2511.13502'
