@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSCS student at Emory university, supervised by [Prof. Li Xiong](https://www.cs.emory.edu/~lxiong/).
+I am an incoming CSI PhD student at Emory University, supervised by [Prof. Li Xiong](https://www.cs.emory.edu/~lxiong/).
  
 Previously, I finished my undergraduate study at CUHK-Shenzhen. I am very lucky to be supervised by [Prof. Yixiang Fang](https://fangyixiang.github.io/) and [Prof. Chenhao Ma](https://chenhao-ma.github.io/) there.
 
