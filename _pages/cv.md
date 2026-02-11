@@ -16,5 +16,5 @@ Education
   
 * Honors:
   * Outstanding Graduate, CUHK-SZ (Top 1% of the graduating class) | 2025
-  * National Scholarship (Top 1% nationwide, highest honor for Chinese undergraduates) | 2024
+  * National Scholarship (Top 1% in the university, highest honor for Chinese undergraduates) | 2024
   * University Outstanding Student Award (Top 1%) | 2024
