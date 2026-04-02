@@ -1,4 +1,3 @@
-
 ---
 title: "Efficiently Querying Connected Components in Large Temporal Graphs via Scalable and Maintainable Indices"
 collection: publications
