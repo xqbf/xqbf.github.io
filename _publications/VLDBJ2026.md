@@ -1,6 +1,6 @@
 
 ---
-title: "Efficiently Querying Connected Components in Large Temporal Graphs via Scalable and Maintainable Indices"
+title: 'Efficiently Querying Connected Components in Large Temporal Graphs via Scalable and Maintainable Indices'
 collection: publications
 category: Journals
 date: to be appeared on VLDB Journal
